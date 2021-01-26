@@ -5,7 +5,7 @@
 [**LinkedIn**](https://linkedin.com/in/mariaromantsova)
 
 ## Summary
-I've been learning frontend about 2 years on my own. Also completed Itransition courses last year. My goal is to gain solid knowledge in frontend and become a qualified professional. I have a responsible approach to studying and developing skills, and always open to new knowledge.
+I've been learning frontend for about 2 years on my own. Also completed Itransition courses last year. My goal is to gain solid knowledge in frontend and become a qualified professional. I have a responsible approach to studying and developing skills, and always open to new knowledge.
 
 ## Key Skills
 - HTML

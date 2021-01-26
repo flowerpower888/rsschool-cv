@@ -1,2 +1,2 @@
 # rsschool-cv
-https://flowerpower888.github.io/rsschool-cv/cv
+https://flowerpower888.github.io/rsschool-cv
